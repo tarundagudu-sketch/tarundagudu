@@ -36,6 +36,3 @@ I turn messy data into actionable business insights. My background in B.Tech IT 
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarundagudu-sketch&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" />
-</p>
