@@ -31,8 +31,5 @@ I turn messy data into actionable business insights. My background in B.Tech IT 
 ---
 
 ### 📫 Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/tarundagudu/) | [Email](tarun.dagudu@gmail.com)
-
----
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:yourname@email.com)
 
