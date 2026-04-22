@@ -1,12 +1,12 @@
-# Hi there, I'm Tarun! 👋
+# Hey, I'm Tarun! 👋
 
-### 📊 Aspiring Data Analyst | SQL • Python • Tableau • Power BI 
+###  Aspiring Data Analyst | SQL • Python • Tableau • Power BI 
 
 I turn messy data into actionable business insights. My background in B.Tech IT combined with hands-on projects in E-commerce and Marketing allows me to ask the "so what?" behind every dataset.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 - **Languages:** Python (Pandas, NumPy, Seaborn), SQL (PostgreSQL)
 - **Data Viz:** Tableau, Power BI, Matplotlib
@@ -16,9 +16,9 @@ I turn messy data into actionable business insights. My background in B.Tech IT 
 
 ### 🚀 Key Projects
 
-- **[Amazon Brazil E-Commerce Analysis](LINK_TO_REPO)**: Used PostgreSQL Window Functions to expose a 98% retention gap.
-- **[Swiggy Marketing Dashboard](LINK_TO_REPO)**: Proved organic traffic outperforms paid ads 5x via Tableau.
-- **[Bumble User Behavior Analysis](LINK_TO_REPO)**: Uncovered gender-based income disparities using Python EDA.
+- **[Amazon Brazil E-Commerce Analysis](https://github.com/tarundagudu-sketch/Postgre-Sql)**: Used PostgreSQL Window Functions to expose a 98% retention gap.
+- **[Swiggy Marketing Dashboard](https://github.com/tarundagudu-sketch/tableau)**: Proved organic traffic outperforms paid ads 5x via Tableau.
+- **[Bumble User Behavior Analysis](https://github.com/tarundagudu-sketch/Personal-Portfolio)**: Uncovered gender-based income disparities using Python EDA.
 
 ---
 
