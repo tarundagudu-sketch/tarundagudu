@@ -14,7 +14,7 @@ I turn messy data into actionable business insights. My background in B.Tech IT 
 
 ---
 
-### 🚀 Key Projects
+###  Key Projects
 
 - **[Amazon Brazil E-Commerce Analysis](https://github.com/tarundagudu-sketch/Postgre-Sql)**: Used PostgreSQL Window Functions to expose a 98% retention gap.
 - **[Excel Project: Flipkart Customer Service Analytics](https://github.com/tarundagudu-sketch/excel)**: Diagnosed billing queries as the #1 churn driver (71% of volume) using Pivot Tables & Dashboards.
@@ -23,13 +23,13 @@ I turn messy data into actionable business insights. My background in B.Tech IT 
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 
 - **Deloitte** - Data Analytics Virtual Experience (Forage)
 - **NextLeap** - Data Analyst Fellowship
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:yourname@email.com)
 
